@@ -29,6 +29,12 @@ Each one has its own anchor there that you can link to.
 The page rounds percentages to whole numbers. The CSV files keep one decimal (for example 6.5% below
 4.0★, shown as 7%).
 
+## Charts
+
+![The 12 industries with the largest share of businesses rated below 4.0 stars on Google, 2026: property management companies 36%, urgent care clinics 25%, senior living communities 22%](charts/share-below-4-stars-by-industry.svg)
+
+![Owner reply rate by star rating on the most visible Google reviews, self-storage vs senior living, 2026](charts/owner-reply-rate-by-star-rating.svg)
+
 ## Files
 
 | File | Rows | What it holds |
