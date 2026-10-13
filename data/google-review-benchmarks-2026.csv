@@ -1,0 +1,51 @@
+industry,google_maps_search,businesses,cities,median_rating,pct_below_4_0,pct_below_4_5,median_reviews,p25_reviews,p75_reviews,p90_reviews
+Accountants,accountant,684,17,4.9,9.4,22.2,14,5,34,80
+Animal hospitals,animal hospital,308,8,4.7,2.9,19.5,292,158,517,887
+Appliance repair,appliance repair,913,25,4.8,9.5,22.3,68,17,207,657
+Auto body shops,auto body shop,953,24,4.7,2.9,19.9,97,39,241,492
+Auto detailing,auto detailing,775,24,4.9,4.1,15.7,71,21,197,418
+Auto repair shops,auto repair shop,1258,32,4.7,1.7,15.7,163,76,352,661
+Barbershops,barber shop,742,27,4.8,0.8,8.6,162,80,318,548
+Beauty salons,beauty salon,739,27,4.8,0.5,4.5,102,51,216,467
+Botox clinics,botox clinic,223,8,4.9,0.0,4.9,124,56,283,572
+Chiropractors,chiropractor,777,22,4.9,0.3,1.9,125,49,272,464
+Cosmetic dentists,cosmetic dentist,215,8,4.9,0.0,1.9,356,198,596,957
+Counseling practices,therapist counseling,430,8,5.0,8.1,23.3,11,4,26,70
+Coworking spaces,coworking space,489,25,4.8,8.2,20.4,23,8,51,96
+Daycares,daycare,806,19,4.7,9.2,27.7,19,8,41,69
+Dentists,dentist,880,28,4.9,2.3,9.9,408,200,703,1080
+Dermatologists,dermatologist,800,20,4.8,13.5,25.2,68,14,313,1061
+Dog boarding,dog boarding,561,19,4.8,1.8,12.3,101,34,250,447
+Electricians,electrician,1130,28,4.9,6.8,18.0,31,10,105,372
+Eyelash salons,eyelash salon,676,26,4.9,0.6,5.2,72,27,171,383
+Fitness studios,fitness studio,634,21,4.9,3.0,13.1,65,28,157,363
+Flooring stores,flooring store,243,8,4.7,4.9,23.9,53,21,122,242
+Funeral homes,funeral home,663,20,4.7,11.5,30.8,33,12,93,200
+Garage door repair,garage door repair,763,23,4.9,3.0,10.0,84,21,335,944
+HVAC contractors,hvac contractor,1303,33,4.9,2.5,8.6,137,37,579,1687
+Hair extension salons,hair extensions salon,251,8,4.8,0.0,8.4,71,31,163,311
+Hair salons,hair salon,540,24,4.8,0.0,3.0,170,86,364,731
+Hearing aid centers,hearing aid center,225,8,4.9,6.2,13.3,67,15,161,284
+IV therapy & wellness clinics,iv therapy wellness,286,8,5.0,0.0,1.0,76,25,197,356
+Landscaping companies,landscaping company,417,8,4.9,4.3,14.9,35,15,85,192
+Martial arts schools,martial arts,655,19,5.0,0.9,4.1,35,14,86,145
+Massage therapists,massage therapist,611,19,4.9,1.3,8.7,64,27,179,426
+Med spas,med spa,793,30,4.9,0.5,3.2,136,53,298,548
+Moving companies,moving company,1049,28,4.8,8.2,19.6,124,38,351,904
+Nail salons,nail salon,779,27,4.6,6.4,31.2,220,99,438,861
+Optometrists,optometrist,731,21,4.8,7.7,18.3,226,56,465,818
+Orthodontists,orthodontist,675,18,4.9,2.4,7.0,190,61,442,813
+Personal injury law firms,personal injury attorney,755,22,4.9,1.2,7.7,98,36,249,659
+Pest control companies,pest control,1183,32,4.9,2.1,8.3,179,33,674,1773
+Pet groomers,pet grooming,890,23,4.7,3.3,19.0,106,44,242,433
+Physical therapy clinics,physical therapy,800,22,5.0,3.5,8.0,73,24,174,300
+Plumbers,plumber,1250,33,4.8,3.6,12.4,129,39,493,1523
+Pool services,swimming pool service,295,8,4.8,6.1,23.4,41,18,103,217
+Property management companies,property management,1802,45,4.3,35.6,57.8,64,22,165,367
+Roofing contractors,roofing contractor,1216,30,4.9,1.9,6.7,80,29,170,398
+Self-storage facilities,self storage / mini storage,1774,17,4.8,2.4,11.4,321,120,556,845
+Senior living communities,assisted living / senior living,2004,17,4.4,21.7,51.2,35,12,70,118
+Tattoo shops,tattoo shop,682,24,4.9,0.4,3.4,142,57,288,661
+Urgent care clinics,urgent care,460,16,4.4,24.8,52.4,364,94,988,1616
+Veterinarians,veterinarian,1007,27,4.7,4.6,22.3,280,118,542,914
+Wedding venues,wedding venue,452,15,4.7,0.9,12.4,112,50,207,475

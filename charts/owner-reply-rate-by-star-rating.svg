@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" width="960" height="420" role="img" aria-labelledby="t d" font-family="system-ui,-apple-system,Segoe UI,sans-serif">
+<title id="t">Owner reply rate by star rating: self-storage vs senior living (2026)</title>
+<desc id="d">Share of the most visible Google reviews that have an owner reply. Self-storage: 1–2 star 56%, 3 star 57%, 4–5 star 86%. Senior living: 1–2 star 41%, 3 star 34%, 4–5 star 53%. Source: ReputeMap, public Google Maps listings, Aug–Sep 2026.</desc>
+<rect x="0.5" y="0.5" width="959" height="419" rx="12" fill="#fff" stroke="#e5e7eb"/>
+<text x="40" y="40" font-size="20" font-weight="600" fill="#111827">Negative reviews get fewer owner replies than positive ones</text>
+<line x1="90" y1="340.0" x2="920" y2="340.0" stroke="#e5e7eb"/><text x="78" y="345.0" font-size="13" fill="#475569" text-anchor="end">0%</text>
+<line x1="90" y1="272.5" x2="920" y2="272.5" stroke="#e5e7eb"/><text x="78" y="277.5" font-size="13" fill="#475569" text-anchor="end">25%</text>
+<line x1="90" y1="205.0" x2="920" y2="205.0" stroke="#e5e7eb"/><text x="78" y="210.0" font-size="13" fill="#475569" text-anchor="end">50%</text>
+<line x1="90" y1="137.5" x2="920" y2="137.5" stroke="#e5e7eb"/><text x="78" y="142.5" font-size="13" fill="#475569" text-anchor="end">75%</text>
+<line x1="90" y1="70.0" x2="920" y2="70.0" stroke="#e5e7eb"/><text x="78" y="75.0" font-size="13" fill="#475569" text-anchor="end">100%</text>
+<rect x="154.3" y="189.6" width="70" height="150.4" rx="6" fill="#4f46e5"/><text x="189.3" y="181.6" font-size="15" font-weight="600" fill="#111827" text-anchor="middle">56%</text>
+<rect x="232.3" y="230.7" width="70" height="109.3" rx="6" fill="#d97706"/><text x="267.3" y="222.7" font-size="15" font-weight="600" fill="#111827" text-anchor="middle">41%</text>
+<text x="228.3" y="366" font-size="15" fill="#111827" text-anchor="middle">1–2★ reviews</text>
+<rect x="431.0" y="185.0" width="70" height="155.0" rx="6" fill="#4f46e5"/><text x="466.0" y="177.0" font-size="15" font-weight="600" fill="#111827" text-anchor="middle">57%</text>
+<rect x="509.0" y="247.4" width="70" height="92.6" rx="6" fill="#d97706"/><text x="544.0" y="239.4" font-size="15" font-weight="600" fill="#111827" text-anchor="middle">34%</text>
+<text x="505.0" y="366" font-size="15" fill="#111827" text-anchor="middle">3★ reviews</text>
+<rect x="707.7" y="107.0" width="70" height="233.0" rx="6" fill="#4f46e5"/><text x="742.7" y="99.0" font-size="15" font-weight="600" fill="#111827" text-anchor="middle">86%</text>
+<rect x="785.7" y="197.2" width="70" height="142.8" rx="6" fill="#d97706"/><text x="820.7" y="189.2" font-size="15" font-weight="600" fill="#111827" text-anchor="middle">53%</text>
+<text x="781.7" y="366" font-size="15" fill="#111827" text-anchor="middle">4–5★ reviews</text>
+<rect x="90" y="374" width="14" height="14" rx="3" fill="#4f46e5"/><text x="112" y="386" font-size="14" fill="#475569">Self-storage (1,746 facilities, 11,482 reviews)</text><rect x="510" y="374" width="14" height="14" rx="3" fill="#d97706"/><text x="532" y="386" font-size="14" fill="#475569">Senior living (2,007 communities, 12,758 reviews)</text>
+</svg>

@@ -1,0 +1,38 @@
+city,companies,median_rating,pct_rated_below_4_0
+"Columbia, SC",40,3.8,60.0
+"Des Moines, IA",52,3.8,59.6
+"Columbus, OH",54,3.9,53.7
+"Birmingham, AL",73,3.9,53.4
+"Provo, UT",49,3.9,51.0
+"Harrisburg, PA",20,3.85,50.0
+"Baton Rouge, LA",36,3.95,50.0
+"Augusta, GA",37,4.1,48.6
+"Madison, WI",80,4.1,43.8
+"Oklahoma City, OK",37,4.3,43.2
+"Boise, ID",54,4.0,42.6
+"Lexington, KY",38,4.15,42.1
+"Richmond, VA",37,4.2,40.5
+"Greensboro, NC",37,4.3,40.5
+"Louisville, KY",85,4.2,38.8
+"Lubbock, TX",37,4.1,37.8
+"Winston-Salem, NC",37,4.4,37.8
+"Sacramento, CA",20,4.35,35.0
+"Tulsa, OK",40,4.3,32.5
+"Colorado Springs, CO",78,4.2,32.1
+"Springfield, MO",38,4.25,31.6
+"Memphis, TN",20,4.2,30.0
+"Savannah, GA",41,4.3,29.3
+"Huntsville, AL",40,4.45,27.5
+"Greenville, SC",73,4.5,27.4
+"Reno, NV",37,4.3,27.0
+"Santa Fe, NM",38,4.7,23.7
+"Knoxville, TN",35,4.5,22.9
+"Charleston, SC",58,4.5,22.4
+"Portland, OR",55,4.4,21.8
+"Tampa, FL",55,4.5,20.0
+"Franklin, TN",55,4.8,20.0
+"Jacksonville, FL",56,4.5,17.9
+"Orlando, FL",51,4.4,17.6
+"Syracuse, NY",29,4.6,17.2
+"Chattanooga, TN",39,4.7,15.4
+"Charlotte, NC",20,4.5,15.0

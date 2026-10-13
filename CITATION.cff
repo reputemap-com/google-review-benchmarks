@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below and link to https://reputemap.com/google-review-benchmarks"
+type: dataset
+title: "Google Review Statistics 2026: Benchmarks by Industry"
+abstract: >-
+  Google ratings, review counts and owner reply rates measured on public Google Maps
+  listings: 38,547 US local businesses in 50 industries and 103 cities, collected
+  August 23 - September 18, 2026. Median rating, share below 4.0 and 4.5 stars and
+  review-count percentiles by industry; owner reply rates by star rating, operator type
+  and metro area for self-storage and senior living; property managers by city.
+  Aggregates only, no business names.
+authors:
+  - name: "ReputeMap"
+    website: "https://reputemap.com"
+version: "1.1"
+date-released: "2026-10-09"
+url: "https://reputemap.com/google-review-benchmarks"
+repository: "https://github.com/reputemap-com/google-review-benchmarks"
+license: CC-BY-4.0
+keywords:
+  - Google review statistics
+  - Google reviews
+  - Google rating
+  - review benchmarks
+  - owner response rate
+  - local business
+  - self-storage
+  - senior living
+  - property management
